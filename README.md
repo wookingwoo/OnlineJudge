@@ -23,10 +23,10 @@
 
 Main modules are available below:
 
-+ Backend(Django): [https://github.com/QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
-+ Frontend(Vue): [https://github.com/QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
-+ Judger Sandbox(Seccomp): [https://github.com/QingdaoU/Judger](https://github.com/QingdaoU/Judger)
-+ JudgeServer(A wrapper for Judger): [https://github.com/QingdaoU/JudgeServer](https://github.com/QingdaoU/JudgeServer)
++ Backend(Django): [https://github.com/wookingwoo/OnlineJudge](https://github.com/wookingwoo/OnlineJudge)
++ Frontend(Vue): [https://github.com/wookingwoo/OnlineJudgeFE](https://github.com/wookingwoo/OnlineJudgeFE)
++ Judger Sandbox(Seccomp): [https://github.com/wookingwoo/Judger](https://github.com/wookingwoo/Judger)
++ JudgeServer(A wrapper for Judger): [https://github.com/wookingwoo/JudgeServer](https://github.com/wookingwoo/JudgeServer)
 
 ## Installation
 
